@@ -1,5 +1,5 @@
 # Url Leecher
-Scrap URLs from search engines ( Combo Leecher )
+Scrap URLs from search engines 
 Used to get: ( ebooks / combolists / leaked things )
 
 ## Search Engines
